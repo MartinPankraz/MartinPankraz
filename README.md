@@ -17,6 +17,3 @@ Find my featured and recorded sessions on the SAP on Azure <a href="https://www.
 
 Yours
 Martin
-
-<a href="https://github.com/MartinPankraz/ninja-unicorn"><img alt="Ninja Cat" width="60px" src="https://raw.githubusercontent.com/MartinPankraz/ninja-unicorn/main/img/ninja.png" />
-</a>
