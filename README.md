@@ -10,7 +10,7 @@ Find my featured and recorded sessions on the SAP on Azure <a href="https://www.
 
 ### 📫 How to reach me
 
-<a href="https://www.linkedin.com/in/martin-pankraz/"><img align="left" alt="Martin's LinkedIn" width="70px" src="img/LinkedIn.svg" /></a><a href="https://twitter.com/martinpankraz" ><img align="left" width="25px" src="img/Twitter.svg" /></a><a href="https://mastodon.social/@martinpankraz@social.cologne" ><img align="left" width="25px" src="img/Mastodon.svg" /></a><a href="https://people.sap.com/martin-pankraz#content:blogposts" ><img align="left" width="40px" src="img/sap.svg" /></a>
+<a href="https://www.linkedin.com/in/martin-pankraz/"><img align="left" alt="Martin's LinkedIn" width="70px" src="img/LinkedIn.svg" /></a><a href="https://twitter.com/martinpankraz" ><img align="left" width="25px" src="img/Twitter.svg" /></a><a href="https://social.cologne/@martinpankraz" ><img align="left" width="25px" src="img/Mastodon.svg" /></a><a href="https://people.sap.com/martin-pankraz#content:blogposts" ><img align="left" width="40px" src="img/sap.svg" /></a>
 
 <br />
 <br />
